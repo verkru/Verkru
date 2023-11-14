@@ -44,33 +44,12 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
-
 <!--   skyline 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-</p>
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
